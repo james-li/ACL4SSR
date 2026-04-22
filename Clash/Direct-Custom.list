@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,11190228.xyz
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,checkip
 DOMAIN-KEYWORD,tracker
+PROCESS-NAME,cfst
+PROCESS-NAME,subs-check
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
